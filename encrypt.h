@@ -1,0 +1,1 @@
+extern void encrypt(int m[], int c[], int publicKey[], int key8[], int key12[], int m2[], int size);
